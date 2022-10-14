@@ -9,12 +9,13 @@ Please if you uce the code cite bellow studies:
 
 # Instalation process:
 
-cd ./PH_3Dpatches-master
+cd  ./PH_3Dpatches-master
+
 pip install .
 
 # Use process:
 
-cd ./PH_3Dpatches-master/script/
+cd  ./PH_3Dpatches-master/script/
 
 python3 train_patch.py train_patch.config
 
